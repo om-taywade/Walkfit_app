@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walkfit</string>
+    <string name="best_day">Best day to walk is %s</string>
+    <string name="error_loading">Error loading weather data</string>
+</resources>
