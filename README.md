@@ -90,14 +90,10 @@ val kotlinFirstApproach = true
 </tr>
 <tr>
 <td>
-
-[Coming Soon]
-
+<img src="app/src/main/assets/screenshots/light.jpeg" alt="Light Theme" width="300"/>
 </td>
 <td>
-
-[Coming Soon]
-
+<img src="app/src/main/assets/screenshots/dark.jpeg" alt="Dark Theme" width="300"/>
 </td>
 </tr>
 </table>
