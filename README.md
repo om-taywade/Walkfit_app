@@ -60,7 +60,6 @@ This app was developed using cutting-edge AI technology:
 ### Built With Modern Tech Stack
 ```kotlin
 val techStack = listOf(
-    "100% Kotlin" to "Pure Kotlin implementation, no Java",
     "Jetpack Compose" to "Kotlin-first UI toolkit",
     "Kotlin Coroutines" to "Native Kotlin async operations",
     "Kotlin Flow" to "Reactive programming in Kotlin",
