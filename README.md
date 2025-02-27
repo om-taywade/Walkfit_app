@@ -8,6 +8,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose-1.5.0-orange.svg)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Cursor](https://img.shields.io/badge/Built%20with-Cursor%20AI-purple.svg)](https://cursor.sh)
 
 *Your intelligent walking companion that combines fitness tracking with weather insights! 🌤️*
 
@@ -23,6 +24,13 @@ WalkFit isn't just another step counter – it's your intelligent walking compan
 - **Seamless Background Tracking**: Never miss a step with our reliable background tracking service
 - **Weather-Aware Suggestions**: Receive smart notifications about optimal walking conditions
 - **Beautiful Material Design**: Enjoy a modern, intuitive interface that's a pleasure to use
+
+### 🤖 AI-Powered Development
+This app was developed using cutting-edge AI technology:
+- **Cursor AI**: Powered by Claude AI for intelligent code generation and problem-solving
+- **Android Studio**: Professional IDE for Android development
+- **AI-Enhanced Features**: Smart algorithms for weather analysis and step detection
+- **Modern Development**: Combining human creativity with AI capabilities
 
 ## ✨ Features
 
@@ -137,8 +145,9 @@ We love contributions! Here's how you can help:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 🙏 Acknowledgments
+## �� Acknowledgments
 
+- 🤖 Developed with Cursor AI (Claude) and Android Studio
 - 🌤️ Weather data by Open-Meteo API
 - 🎨 Material Design 3 by Google
 - 📱 Android Jetpack libraries
