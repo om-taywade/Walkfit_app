@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact & Support
 
-Om Taywade - [@omtaywade](https://github.com/omtaywade-github)
+Om Taywade - [@omtaywade](https://github.com/om-taywade)
 
 <div align="center">
 
