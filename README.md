@@ -8,7 +8,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose-1.5.0-orange.svg)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![AI Assisted](https://img.shields.io/badge/AI%20Assisted-Claudeau%20%2B%20Cursor-blueviolet.svg)](https://cursor.sh)
+[![AI Assisted](https://img.shields.io/badge/AI%20Assisted-Claude%20%2B%20Cursor-blueviolet.svg)](https://cursor.sh)
 
 *Your intelligent walking companion that combines fitness tracking with weather insights! 🌤️*
 
