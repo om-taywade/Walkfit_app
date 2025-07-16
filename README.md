@@ -73,7 +73,9 @@ val implementation = "100% Kotlin" // No Java code
 val modernTooling = true
 val kotlinFirstApproach = true
 
-🏗️ Key Components
+```
+
+### 🏗️ Key Components
 Pure Kotlin: Entire codebase written in modern Kotlin
 
 StepCounter: Kotlin implementation of sensor fusion
