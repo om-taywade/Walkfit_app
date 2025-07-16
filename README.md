@@ -8,52 +8,66 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose-1.5.0-orange.svg)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Cursor](https://img.shields.io/badge/Built%20with-Cursor%20AI-purple.svg)](https://cursor.sh)
+[![AI Assisted](https://img.shields.io/badge/AI%20Assisted-Claudeau%20%2B%20Cursor-blueviolet.svg)](https://cursor.sh)
 
 *Your intelligent walking companion that combines fitness tracking with weather insights! 🌤️*
 
 </div>
 
+---
+
 ## 🌟 What Makes WalkFit Special?
 
 WalkFit isn't just another step counter – it's your intelligent walking companion that helps you make the most of your daily walks. By combining real-time step tracking with smart weather insights, WalkFit helps you choose the perfect time for your walks.
 
-### 🎯 Smart Features That Set Us Apart
+---
 
-- **Intelligent Walk Planning**: Get personalized recommendations for the best walking times based on weather conditions
-- **Seamless Background Tracking**: Never miss a step with our reliable background tracking service
-- **Weather-Aware Suggestions**: Receive smart notifications about optimal walking conditions
-- **Beautiful Material Design**: Enjoy a modern, intuitive interface that's a pleasure to use
+## 🎯 Smart Features That Set Us Apart
 
-### 🤖 AI-Powered Development
-This app was developed using cutting-edge AI technology:
-- **Cursor AI**: Powered by Claude AI for intelligent code generation and problem-solving
-- **Android Studio**: Professional IDE for Android development
-- **AI-Enhanced Features**: Smart algorithms for weather analysis and step detection
-- **Modern Development**: Combining human creativity with AI capabilities
+- **Intelligent Walk Planning**: Get personalized recommendations for the best walking times based on weather conditions  
+- **Seamless Background Tracking**: Never miss a step with our reliable background tracking service  
+- **Weather-Aware Suggestions**: Receive smart notifications about optimal walking conditions  
+- **Beautiful Material Design**: Enjoy a modern, intuitive interface that's a pleasure to use  
+
+---
+
+## 🤖 AI-Assisted Development
+
+WalkFit was built by a solo developer, with assistance from modern AI tools:
+
+- **Cursor & Claude AI**: Used for code generation, refactoring, and technical documentation  
+- **No AI Runtime Features**: WalkFit does **not** include any AI/ML components inside the app  
+- **Manually Crafted Features**: All weather insights and step tracking logic are written in Kotlin using Android libraries  
+- **Human Creativity First**: AI supported the development process but did not replace developer intent or decision-making  
+
+> ⚠️ **Disclaimer**: WalkFit does not contain any active AI or machine learning functionality inside the app. All logic is handcrafted using native Android features.
+
+---
 
 ## ✨ Features
 
 ### 🦶 Step Tracking
-- **Real-time Monitoring**: Watch your steps accumulate in real-time
-- **Smart Goals**: Set and track personalized daily step goals
-- **Persistent Data**: Never lose your progress, even after app restarts
-- **Automatic Reset**: Fresh start every day at midnight
-- **Multi-Sensor Support**: Utilizes various device sensors for maximum accuracy
+- **Real-time Monitoring**: Watch your steps accumulate in real time  
+- **Smart Goals**: Set and track personalized daily step goals  
+- **Persistent Data**: Never lose your progress, even after app restarts  
+- **Automatic Reset**: Fresh start every day at midnight  
+- **Multi-Sensor Support**: Utilizes various device sensors for maximum accuracy  
 
 ### ⛅ Weather Integration
-- **Live Weather Updates**: Real-time weather data at your fingertips
-- **Smart Walk Score**: Unique algorithm considers multiple weather factors
-- **Hourly Forecasts**: Plan your walks with detailed hourly predictions
-- **Multi-City Support**: Track weather in multiple locations
-- **Optimal Time Finder**: Get suggestions for the best walking times
+- **Live Weather Updates**: Real-time weather data at your fingertips  
+- **Smart Walk Score**: Custom algorithm considers multiple weather factors  
+- **Hourly Forecasts**: Plan your walks with detailed hourly predictions  
+- **Multi-City Support**: Track weather in multiple locations  
+- **Optimal Time Finder**: Get suggestions for the best walking times  
 
 ### 🎨 User Experience
-- **Dark/Light Themes**: Choose your preferred visual style
-- **Haptic Feedback**: Enjoy satisfying tactile responses
-- **Interactive Cards**: Engaging weather and step count displays
-- **Progress Visualization**: Beautiful charts and progress indicators
-- **Smooth Animations**: Delightful micro-interactions throughout
+- **Dark/Light Themes**: Choose your preferred visual style  
+- **Haptic Feedback**: Enjoy satisfying tactile responses  
+- **Interactive Cards**: Engaging weather and step count displays  
+- **Progress Visualization**: Beautiful charts and progress indicators  
+- **Smooth Animations**: Delightful micro-interactions throughout  
+
+---
 
 ## 🛠️ Technical Architecture
 
@@ -67,37 +81,23 @@ val techStack = listOf(
     "Material 3" to "Modern Android UI components"
 )
 
-// Key Features
 val implementation = "100% Kotlin" // No Java code
 val modernTooling = true
 val kotlinFirstApproach = true
-```
 
-### 🏗️ Key Components
-- **Pure Kotlin**: Entire codebase written in modern Kotlin
-- **StepCounter**: Kotlin implementation of sensor fusion
-- **WeatherService**: Kotlin Coroutines for async weather data
-- **BackgroundService**: Kotlin service implementation
-- **DataPersistence**: Kotlin-based data storage system
+🏗️ Key Components
+Pure Kotlin: Entire codebase written in modern Kotlin
 
-## 📱 Screenshots
+StepCounter: Kotlin implementation of sensor fusion
 
-<div align="center">
-<table>
-<tr>
-<td><strong>Light Theme</strong></td>
-<td><strong>Dark Theme</strong></td>
-</tr>
-<tr>
-<td>
-<img src="app/src/main/assets/screenshots/light.jpeg" alt="Light Theme" width="300"/>
-</td>
-<td>
-<img src="app/src/main/assets/screenshots/dark.jpeg" alt="Dark Theme" width="300"/>
-</td>
-</tr>
-</table>
-</div>
+WeatherService: Kotlin Coroutines for async weather data
+
+BackgroundService: Kotlin service implementation
+
+DataPersistence: Kotlin-based data storage system
+
+📱 Screenshots
+<div align="center"> <table> <tr> <td><strong>Light Theme</strong></td> <td><strong>Dark Theme</strong></td> </tr> <tr> <td> <img src="app/src/main/assets/screenshots/light.jpeg" alt="Light Theme" width="300"/> </td> <td> <img src="app/src/main/assets/screenshots/dark.jpeg" alt="Dark Theme" width="300"/> </td> </tr> </table> </div>
 
 ## 🚀 Getting Started
 
