@@ -31,18 +31,6 @@ WalkFit isn't just another step counter – it's your intelligent walking compan
 
 ---
 
-## 🤖 AI-Assisted Development
-
-WalkFit was built by a solo developer, with assistance from modern AI tools:
-
-- **Cursor & Claude AI**: Used for code generation, refactoring, and technical documentation  
-- **No AI Runtime Features**: WalkFit does **not** include any AI/ML components inside the app  
-- **Manually Crafted Features**: All weather insights and step tracking logic are written in Kotlin using Android libraries  
-- **Human Creativity First**: AI supported the development process but did not replace developer intent or decision-making  
-
-> ⚠️ **Disclaimer**: WalkFit does not contain any active AI or machine learning functionality inside the app. All logic is handcrafted using native Android features.
-
----
 
 ## ✨ Features
 
